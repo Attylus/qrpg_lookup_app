@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react';
-import { Input } from '@/components/ui/input';
-import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { Card, CardContent } from '@/components/ui/card';
+import { Input } from '../components/ui/input';
+import { Tabs, TabsList, TabsTrigger } from '../components/ui/tabs';
+import { Card, CardContent } from '../components/ui/card';
 
-import featsData from '@/data/qrpg_feats.json';
-import spellsData from '@/data/qrpg_spells.json';
+import featsData from '../data/qrpg_feats.json';
+import spellsData from '../data/qrpg_spells.json';
 
 export default function QRPGLookupApp() {
   const [tab, setTab] = useState('feats');
