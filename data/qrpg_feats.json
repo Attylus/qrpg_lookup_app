@@ -1,0 +1,1072 @@
+[
+  {
+    "name": "Visual Learner",
+    "requirements": "RPG-Book-Reading 2",
+    "description": "As a Full-Round Action, the player (but not their  character) can read about a concept of this game from this  book and be able to apply that concept whenever they are  playing the game any time after.             15"
+  },
+  {
+    "name": "Double Check",
+    "requirements": "Heavy Projectiles 2",
+    "description": "As a Movement, character gains +1D as a bonus to their  next Attack with a [Heavy Projectiles] weapon. If a  character who uses this Movement uses it again as their  Action, the bonus increases to +2D toward their next  [Heavy Projectiles] check with the weapon they are  currently operating."
+  },
+  {
+    "name": "Mechanical Knowledge",
+    "requirements": "Heavy Projectiles 3",
+    "description": "Once per Round, a character may spend 1 Stamina Point  to remove an Out of Ammo status on a [Heavy  Projectiles] weapon they are using as a Movement or  increase the weapon\u2019s Condition by 1 as a Full Round  Action. This feat cannot restore ammo to item launchers  such as Rocket Launchers and Grenade Launchers."
+  },
+  {
+    "name": "Danger Close",
+    "requirements": "Heavy Projectiles 4",
+    "description": "If an ally would take damage from a [Heavy Projectiles]  attack made by a weapon with the Splash quality, this  character may spend 1 Stamina Point before or after  rolling dice for the Attack in order to half the damage  dealt to the ally and move the ally 5 feet away from the  location of the attack if affected by Splash, or in a  direction chosen by the attacking character if the ally is at  the center of the Attack\u2019s Area of Effect.                        16"
+  },
+  {
+    "name": "Aim",
+    "requirements": "None",
+    "description": "Allows the character to carefully aim their ranged  weapon as a Movement. If the next Action the character  takes is a ranged attack, and the character hasn't moved,  the character gets +1D to the attack. If a character who  has aimed uses the \u201cAim\u201d Movement again as their  Action, then the next attack gets a total of a +2D bonus."
+  },
+  {
+    "name": "Threaten Shot",
+    "requirements": "Light Projectiles 2",
+    "description": "This Action allows the character to apply a +1 Fear effect  onto the target after a successful [Light Projectiles] vs  [Composure] opposed check. No damage is dealt. Makes  skittish things flee from the character."
+  },
+  {
+    "name": "Dive Shot",
+    "requirements": "Light Projectiles 3",
+    "description": "As an Action, the character can spend 1 Stamina Point  to make a [Light Projectiles] attack, but at a -1D penalty.  No matter the outcome of the attack itself, the character  ends the attack having moved into a prone position in an  unoccupied  adjacent  space  without  spending  a  Movement or Minor Action."
+  },
+  {
+    "name": "Point Blank",
+    "requirements": "Light Projectiles 3",
+    "description": "[Light Projectiles] checks can now be made against  targets within 5 feet of the character without the character  suffering a penalty to attack."
+  },
+  {
+    "name": "Tactical Reload",
+    "requirements": "Light Projectiles 3",
+    "description": "The character can use an ammunition Reload item as a  Minor Action (as opposed to using a Movement)."
+  },
+  {
+    "name": "Disarming Shot",
+    "requirements": "Light Projectiles 4",
+    "description": "As an Action, this character spends 1 Stamina Point to  attempt a [Light Projectiles 8] check. On success, a  weapon that the target was holding gets shot out of their  hand and loses 1 level on its Condition scale.          17"
+  },
+  {
+    "name": "Ricochet Shot",
+    "requirements": "Light Projectiles 5",
+    "description": "If a target is behind cover, and the attacking character is  aware of the target's location, the character may attack  any solid surface that both the attacking character and the  target have line-of-sight with. The [Light Projectiles]  attack made under these circumstances has half the range  and deals half damage (after adding Degrees of Success).                                                                    18"
+  },
+  {
+    "name": "Gather Power",
+    "requirements": "None",
+    "description": "Character may, as a Full-Round Action, spend the Mana  Points for a spell they intend to cast next round, then,  during that following round as an Action, character  makes the [Magic] check to cast the spell at a +1D bonus  and doubles its base Attack Damages and time intervals,  but not bonuses or penalties. Degrees of Success and DoS  Effects are also excluded from this benefit. Character can  only cast one spell per round when doing this (except  when under the effects of Haste or similar effects)."
+  },
+  {
+    "name": "Enhance Skill",
+    "requirements": "None",
+    "description": "Character spends 1 Mana Point to make a [Magic] check  alongside any other Skill Check and uses the higher result  between the two as the Skill Check's result."
+  },
+  {
+    "name": "Spellsword",
+    "requirements": "Magic 1",
+    "description": "Character may, as a Minor Action, spend 1 Mana Point  when making a non-magical melee or ranged attack to  add the DoS Effect of a spell to that attack. Character  must already know the spell."
+  },
+  {
+    "name": "Fast Casting",
+    "requirements": "Magic 2",
+    "description": "When this character makes a [Magic] check to attack as  an Action, they cast a spell a second time immediately  after (if they are still physically able to)."
+  },
+  {
+    "name": "Mana Trance",
+    "requirements": "Magic 2",
+    "description": "During a Long Rest, character may use \u201cMana Trance\u201d  at the exclusion of any other \u201cShort Rest\u201d types of  activities (but character may still spend Experience  Points as usual). Using \u201cMana Trance\u201d before sleep  doubles the character\u2019s Mana Points (MP) during the  Long Rest up to their MP maximum. (Does not remove  degrees of Schism.)"
+  },
+  {
+    "name": "Detect Magic",
+    "requirements": "Magic 2",
+    "description": "Allows character to passively see Lars, detect the  presence of nearby magic with a [Magic 4] check, know  the specific spell with a [Magic 6] check, and the presence  of magic traps with a [Magic 8].        19"
+  },
+  {
+    "name": "Interrupt Spell",
+    "requirements": "Magic 3",
+    "description": "When a target is casting a spell, as a Reaction, this  character can spend 1 Mana Point to cast a partial mana  arrangement into that of the spell being prepared, ruining  the preparation. Target loses the mana spent on the spell  and loses all progress in casting the spell."
+  },
+  {
+    "name": "Shaped Magic",
+    "requirements": "Magic 3",
+    "description": "When this character casts a spell that can affect multiple  targets, the character can choose to have certain  individuals not be affected by the spell by spending an  additional 1 Mana Point per target to be excluded from  the spell."
+  },
+  {
+    "name": "Bind Familiar",
+    "requirements": "Magic 3",
+    "description": "During a Short Rest, character may conjure a Familiar.  The Familiar takes the form of an animal up to (but not  exceeding) 7 Encumbrance.  To do so, character must spend an amount of Mana  Points equal to the target animal's Encumbrance to make  a [Magic] check with a difficulty equal to double the  target animal's Encumbrance. On success, a Familiar is  created."
+  },
+  {
+    "name": "Dual Cast",
+    "requirements": "Magic 3",
+    "description": "The character is skilled enough with casting to exploit the  symmetry of their nervous system, allowing the merging  of two spells simultaneously. Character may cast a  combination spell that uses the Attack Damage of one  spell and the DoS Effect of another."
+  },
+  {
+    "name": "Manachondria",
+    "requirements": "Magic 4",
+    "description": "Whenever the character spends Mana Points (MP) to use  magic, the character may conserve MP by spending  Stamina Points in place of MP if at least 1 MP is spent  toward the effort.  (Character has developed tiny mana crystals in their cells  and tissues through frequent and intense use of magic. As  a result, mana channeling has become enhanced by  physical exertion.)"
+  },
+  {
+    "name": "Conductive Mana",
+    "requirements": "Magic 4",
+    "description": "Character may use [Composure] checks in place of  [Magic] for purposes of casting spells but all spells cast  using [Composure] are limited to what can be transferred  through physical touch.  Additionally, Character may spend an Action to use a  [Magic] (or [Composure]) check (at a -1D penalty) to  transfer the magical effect into another physical object  (such as a melee weapon or thrown object) that will  activate the spell when touched by a character who  cannot use magic in this way."
+  },
+  {
+    "name": "Casual Sacrifice",
+    "requirements": "Magic 4",
+    "description": "The cantrip for the \u201cBlood Mana\u201d spell can now be  performed as a Minor Action instead of a Movement.                    20"
+  },
+  {
+    "name": "Center Of Being",
+    "requirements": "None",
+    "description": "As a Minor Action, the character may add +1D to  Defending, but incurs a -1D penalty to Attacking. This  effect lasts for 1 round."
+  },
+  {
+    "name": "Shield Shove",
+    "requirements": "One-Handed 2",
+    "description": "Character may spend 1 Stamina Point to use the \u201cShove\u201d  Action as a Minor Action whenever the character has a  Shield equipped and has used their other hand/held  weapon to successfully make a combat Skill Check as  their Action. The target must be 5 feet from the character,  and after the attack, has been pushed back 5 more feet  away from the character if their path of movement is not  blocked by nonfluid mass."
+  },
+  {
+    "name": "Throw Weapon",
+    "requirements": "One-Handed 2",
+    "description": "Use a weapon\u2019s skill to throw it. Melee weapons do their  base damage when thrown (as opposed to the damage of  an improvised weapon) and must meet the ranged To- Hit."
+  },
+  {
+    "name": "Bodyguard",
+    "requirements": "One-Handed 3",
+    "description": "Once per round on the character's turn, the character may  spend 1 Stamina Point to use \"Bodyguard\" as a Reaction  and remove the highest die from an opponent's attack on  an ally within melee range."
+  },
+  {
+    "name": "Nito Ichi",
+    "requirements": "One-Handed 3",
+    "description": "While holding two weapons/implements capable of  Defending, successfully Defending with one of them  grants a Counterattack against the attacker with the other  weapon. While dual-wielding weapons of the same Skill  (excluding [Magic]), a second attack may be made as a  Minor Action instead of a Movement.    50"
+  },
+  {
+    "name": "Wounding Strike",
+    "requirements": "One-Handed 4",
+    "description": "Costs 1 Stamina Point per attack. Carefully targeted  strikes Wound the target's Health Points pool instead of  deducting from it."
+  },
+  {
+    "name": "Battle Flow",
+    "requirements": "One-Handed 4",
+    "description": "Upon landing a killing blow, character may spend 1  Stamina Point to make another Attack during the same  turn. This feat can be performed multiple times during the  same turn.                                                                                                        51"
+  },
+  {
+    "name": "Stunning Blow",
+    "requirements": "None",
+    "description": "Do Stamina Point damage instead of Health Point  damage. This does not ignore Soak. This can be used in  combination with other feats."
+  },
+  {
+    "name": "Block Twice",
+    "requirements": "Polearm 2",
+    "description": "While using a polearm with two hands, the polearm can  be used for the Defense Reaction twice per round."
+  },
+  {
+    "name": "Scatter Strike",
+    "requirements": "Polearm 2",
+    "description": "While using a polearm with two hands, the character may  make a second Attack when using \u201cStunning Blow\u201d  (feat) to attack a target\u2019s Stamina Points. This second  attack may be used against a second target in range."
+  },
+  {
+    "name": "Threatening Strike",
+    "requirements": "Polearm 2",
+    "description": "When an enemy enters attack range, spend 1 Stamina  Point as a Reaction to gain an Opportunistic Attack.  Can only be used while holding a weapon that uses the  [Polearm] skill."
+  },
+  {
+    "name": "Knockdown Attack",
+    "requirements": "Polearm 3",
+    "description": "When making an attack with a polearm, spend 1 Stamina  Point before rolling dice to knock the target down into a  prone position if the Luck Die (D20) result is greater than  10 and the attack succeeds."
+  },
+  {
+    "name": "Butt Attack",
+    "requirements": "Polearm 3",
+    "description": "Spend 1 Stamina Point to make a second attack at a -1D  penalty against the same target or a different target in  range when attacking with a polearm.        52"
+  },
+  {
+    "name": "Area Knockdown",
+    "requirements": "Polearm 4",
+    "description": "Spend 2 Stamina Points to attack multiple targets in  range. One attack roll is made, but at a -1D penalty for  each additional target beyond the first. Roll the Luck Die  (D20) for each target hit. If the Luck Die result is greater  than 10, that target is knocked prone."
+  },
+  {
+    "name": "Area Attack",
+    "requirements": "Polearm 4",
+    "description": "Spend 1 Stamina Point to attack multiple targets in range.  One attack roll is made, but at a -1D penalty for each  additional target beyond the first.                                                                                                      53  TWO-HANDED MELEE  [2-Handed] is a STRENGTH-based Skill for the use of melee weapons that usually require two hands to use effectively,  such as Longswords and Greataxes, but excludes polearms. The [2-Handed] skill offers increased attack power and speed at  the cost of defense and adaptability. At higher levels, this skill sometimes has the potential to end a combat encounter before  it begins.  TWO-HANDED MELEE FEATS        Two-Handed Melee Feats  Title  Fundamentals  Strategy  Techniques  Fine-Tuning  Epiphany  Level 1  Level 2  Level 3  Level 4  Level 5  Shock Trooper  Berserk  Nukitsuke  Power Strike  Shock Trooper  Oni-Mode  Battosai    Iai  Extra Attack  Fade Slash  Life-Giving  Sword  ????      Crippling Blow      ????        End Him Rightly"
+  },
+  {
+    "name": "Berserk",
+    "requirements": "None",
+    "description": "As a Minor Action, character spends 1 Stamina Points  to add +1D to any melee attack but cannot Defend.  \u201cBerserk\u201d lasts for 1 round.    NUKITSUKE \u629c\u304d\u4ed8\u3051  Requirements: Two-Handed 2  During combat, or at the initiation of combat, character  gains a +1D bonus to [Two-Handed] checks against  targets who have not acted yet.    IAI \u5c45\u5408 (OR BATTO \u629c\u5200)  Requirement: Two-Handed 2  Drawing a [Two-Handed] weapon that can be used with  one hand can be rolled/skill checked as an attack, but  with a -1D penalty. Alternatively, it can be rolled as a  Defense without additional penalty other than what\u2019s  inherent to a Defense."
+  },
+  {
+    "name": "Shock Trooper",
+    "requirements": "Two-Handed 4",
+    "description": "Character\u2019s movement speed increases by +10 feet."
+  },
+  {
+    "name": "Fade Slash",
+    "requirements": "Two-Handed 4",
+    "description": "Character makes an attack as normal but spends 1  Stamina Point to move backwards or sideways, ending  their turn 5 feet away from their starting point."
+  },
+  {
+    "name": "End Him Rightly",
+    "requirements": "Two-Handed 4",
+    "description": "Once per encounter, the character may spend 1 Stamina  Point to detach and throw the pommel of their own  weapon as a Minor Action by making an [Athletics]  check with a -1D penalty. If it hits, the target gains +1  Dazed. (Dazed targets suffer -1D to all Skill Checks per  Degree of Severity, move at half speed, and cannot  intentionally spend Stamina Points. 1 Degree of Severity  is removed at the end of each turn.)    ONI-MODE  Requirements: Two-Handed 5  The character can wield weapons that have the \u201cTwo- Handed\u201d property in one hand. (This does not change the  weapon\u2019s Damage or Skill).    LIFE-GIVING SWORD  Requirements: Two-Handed 5  When the character makes a [Two-Handed] attack  against a target, the character may opt to have the attack  deal no damage and count as an [Intimidation] check to  coerce the target to surrender instead.                                                                    55"
+  },
+  {
+    "name": "Hip Throw",
+    "requirements": "Unarmed 2",
+    "description": "A grasped target within 5 ft can be thrown to the ground,  dealing no damage, but applying Knockdown, causing  them to become prone. If Defender also has the \"Hip  Throw\" feat, they may attempt to counter it by  successfully passing an [Unarmed 5] or [Acrobatics 6]  check. If successful, the original attacker may spend 1  Stamina Point to attempt to also counter but must pass  an [Unarmed 6] check. If they pass, the \u201cHip Throw\u201d  cannot be countered again for the rest of this turn."
+  },
+  {
+    "name": "Status Hit",
+    "requirements": "Unarmed 2",
+    "description": "Spend 1 Stamina Point when making an [Unarmed]  combat check to choose to take a -1D penalty to apply +1  Stun or to take a -2D penalty to apply +1 Blind if the  attack successfully damages the target's Health Points or  Stamina Points."
+  },
+  {
+    "name": "Qi Magic",
+    "requirements": "Unarmed 2",
+    "description": "Character may make a [Magic] check and an [Unarmed]  check simultaneously and keep the higher of the two  results for use as a [Magic] check."
+  },
+  {
+    "name": "Combo Attack",
+    "requirements": "Unarmed 3",
+    "description": "When an attack damages the target's Health Poins after  applying Soak, spend 1 Stamina Point to also damage the  target's Stamina Points by the same amount.                  56"
+  },
+  {
+    "name": "Grab",
+    "requirements": "Unarmed 3",
+    "description": "Grasped targets within 5 ft can be grabbed as an Action  by making an opposed [Unarmed] check against an  [Unarmed] or [Acrobatics] check made by the target. (If  character fails the check, their target is granted an  Opportunistic Attack against the character.) While  grabbed, targets cannot attack or defend, their speed  becomes 0, and any Soak gained from armor suffers a -2  penalty. Targets who are not grasped may be grabbed as  a Sneak-Attack. The grabbing character gains +1D  [Intimidate] vs the grabbed target. Additionally, the  character may perform the following special actions: (1)  Make [Unarmed 3] combat checks without the benefit of  weapons to apply a choke and attack the target's Stamina  (Damage: STR). (2) The character may pass an  [Unarmed 6] check to instantly kill the target if the target  has breakable vertebrae in its neck."
+  },
+  {
+    "name": "Unarmed Defense",
+    "requirements": "Unarmed 3",
+    "description": "Increases the Defense stats of Punch and Kick by +1D per  level of [Unarmed] minus two. (See Punch and Kick on  the weapons list.)"
+  },
+  {
+    "name": "Meditate",
+    "requirements": "Unarmed 3",
+    "description": "Allows the character to enter a trance-like state requiring  their full and complete attention, preventing them from  using Movements or Actions. In this state, the character  can stop Bleeding, and gain a +1D bonus to resist new  Poison or disease application. Additionally, when  meditating during a Short Rest, the character can remove  1 degree of Wound and heal themselves to the minimum  number of Health Points (HP) required for that character  to no longer be Bloodied. While meditating, a character  who is Poisoned does not lose HP due to Poison but does  not lose degrees of Poison either. A successful [Strength  6] check while meditating removes 1 degree of Poison. If  the [Strength] check fails, the character loses 1 HP and 1  degree of Poison."
+  },
+  {
+    "name": "Machinegun Hit",
+    "requirements": "Unarmed 4",
+    "description": "After making an [Unarmed] attack, the character may  spend 2 Stamina Points to make two more [Unarmed]  attacks as a Movement. These attacks may be applied  against the same target, or different targets in range."
+  },
+  {
+    "name": "Catch Weapon",
+    "requirements": "Unarmed 4",
+    "description": "A character with nothing in their hands may spend 1  Stamina Point before defending against a ranged attack.  If Defense is successful in negating all incoming damage,  the projectile is caught in this character's hand. (Normal  ranged defense penalties apply based on projectile type.)  A character with nothing in their hands may spend 1  Stamina Point before defending against a melee attack. If  Defense is successful in negating all incoming damage,  the attacker's melee weapon is caught in the defending  character's hand. Defending character may immediately  make an opposed [Athletics] check to wrench the  weapon away from the attacker."
+  },
+  {
+    "name": "Qi Strike",
+    "requirements": "Unarmed 4",
+    "description": "When an attack damages the target's Health Points after  applying Soak, spend 1 Stamina Point to also damage the  target's Mana Points by the same amount. If there is a  secondary target within 5 feet behind the primary target,  the attacking character may spend an additional Stamina  Point to inflict an amount of damage on them equal to  the amount of Mana Points lost from the primary target."
+  },
+  {
+    "name": "Force Of Will",
+    "requirements": "Unarmed 5",
+    "description": "Once per encounter after being Incapacitated, this  character can will themselves back into consciousness as  a Full-Round Action by successfully passing an  [Unarmed 9] check. Upon success, the character chooses  how much of their remaining Stamina Points to spend,  and can recover half of that chosen number as Health  Points.    57"
+  },
+  {
+    "name": "Happy Accidents",
+    "requirements": "Art 4",
+    "description": "The character may reroll one [Art] check per game  session and must keep the new result."
+  },
+  {
+    "name": "Basic Gadgeteering",
+    "requirements": "None",
+    "description": "Character can craft [Devices] items of Rarity 1 and 2."
+  },
+  {
+    "name": "Apprentice Gadgeteer",
+    "requirements": "Devices 2; \u201cBasic Gadgeteering\u201d feat",
+    "description": "Character can craft [Devices] items of Rarity 3 and 4."
+  },
+  {
+    "name": "Professional Gadgeteer",
+    "requirements": "Devices 3; \u201cApprentice Gadgeteer\u201d feat",
+    "description": "Character can craft [Devices] items of Rarity 5 and 6."
+  },
+  {
+    "name": "Advanced Gadgeteering",
+    "requirements": "Devices 4; \u201cProfessional Gadgeteer\u201d feat",
+    "description": "Character can craft [Devices] items of Rarity 7 and 8."
+  },
+  {
+    "name": "Practical Theoretics",
+    "requirements": "Devices 5; \u201cMaster Gadgeteer\u201d feat",
+    "description": "Character can craft [Devices] items of 1 Era higher than  the current game setting."
+  },
+  {
+    "name": "Master Gadgeteer",
+    "requirements": "Devices 5; \u201cAdvanced Gadgeteering\u201d",
+    "description": "feat  Character can craft [Devices] items of Rarity 9 and 10."
+  },
+  {
+    "name": "Cutting Edge Invention",
+    "requirements": "Devices 5; \u201cPractical Theoretics\u201d feat",
+    "description": "Character can craft one single [Devices] item of Rarity  11 or 12. This feat\u2019s benefit can only be taken once.            60"
+  },
+  {
+    "name": "Basic Smithing",
+    "requirements": "Smithing 3",
+    "description": "Character can silver-plate weapons and equipment.  Doing so costs half the price of having it done by a  blacksmith."
+  },
+  {
+    "name": "Silversmith",
+    "requirements": "Smithing 3",
+    "description": "Character can silver-plate weapons and equipment.  Doing so costs half the price of having it done by a  blacksmith."
+  },
+  {
+    "name": "Modulation",
+    "requirements": "Smithing 3",
+    "description": "Character can destroy a weapon to put 1/2 of its market  price toward the progress of crafting a similar but different  weapon (same ammo type or bladed to bladed, bludgeon  to bludgeon, etc.)."
+  },
+  {
+    "name": "Legendary Creation",
+    "requirements": "Smithing 5",
+    "description": "Character can craft one single [Smithing] item of Rarity  11 or 12. This feat\u2019s benefit can only be taken once.                            61"
+  },
+  {
+    "name": "Quickdraw",
+    "requirements": "None",
+    "description": "The character draws or holsters equipped weapons as a  Minor Action instead of a Movement. This feat also  reduces the amount of time it takes to set up or stow a  weapon that usually requires more than one Movement  to properly prepare or stow, by 1 Movement."
+  },
+  {
+    "name": "Hop Back",
+    "requirements": "Acrobatics 2",
+    "description": "As a Minor Action, a character engaged with an  opponent may spend 1 Stamina Point to Disengage and  move 5 feet. This does not count as using an Action."
+  },
+  {
+    "name": "Safety Roll",
+    "requirements": "Acrobatics 2",
+    "description": "Reduce damage from falling by 5 ft."
+  },
+  {
+    "name": "Ride On",
+    "requirements": "Acrobatics 2",
+    "description": "Character may get into and out of vehicle seats and  animal saddles, as a Minor Action instead of a  Movement."
+  },
+  {
+    "name": "Parkour",
+    "requirements": "Acrobatics 3",
+    "description": "By spending 1 Stamina Point (SP), the character does not  suffer speed penalties for moving through difficult terrain  (character moves through the difficult terrain at normal  speed without spending additional Movements). If  character takes makes a second Movement (such as  giving up an Action for an additional Movement)  another SP must be spent for that movement to benefit  from \u201cParkour\u201d.    KIP-UP  Requirements: Acrobatics 3  Character may stand up from being seated or prone as a  Minor Action, spending no Movement to do so.      64  UKEMI \u53d7\u3051\u8eab  Requirements: Acrobatics 4  As a Reaction, spend 1 Stamina Point to return to a  standing position immediately after being knocked prone."
+  },
+  {
+    "name": "Felinity",
+    "requirements": "Acrobatics 5",
+    "description": "Spend 1 Stamina Point to add +1D to an [Acrobatics]  check used to reduce damage from a fall.  Additionally, character never loses their last Health  Point due to falling within the same round in which they  used \u201cFelinity\u201d.                                                                                                      65"
+  },
+  {
+    "name": "Tame Animal",
+    "requirements": "None",
+    "description": "This character can attempt to improve the disposition of  a wild animal toward themself with an [Animal  Handling] Skill Check. The difficulty of the check is  equal to twice the animal's PRESENCE stat, plus 2. If the  animal is aggressive, a -1D check is imposed against the  check. If the aggressive animal has been attacked and  took damage, then the penalty goes up to -2D. Food that  the animal would eat is required and is consumed on  success. Damaging an animal's Health or Stamina with  an attack automatically decreases its disposition. If the  animal becomes bloodied, its disposition changes to the  minimal possible amount."
+  },
+  {
+    "name": "Train Mount",
+    "requirements": "Animal Handling 3",
+    "description": "The character can now condition and train a tamed  animal to serve as a mount and support a rider, if the rider  is smaller than the animal."
+  },
+  {
+    "name": "Embolden Pet",
+    "requirements": "Animal Handling 3",
+    "description": "As an Action, the character can reduce the Fear effect on  a pet. If the animal is close enough to see and hear the  character, 1 degree of Fear is removed with a successful  [Animal Handling] check. The difficulty of the check is  equal to twice the degrees of Fear imposed on the pet."
+  },
+  {
+    "name": "Enrage Pet",
+    "requirements": "Animal Handling 4",
+    "description": "As an Action, the character can cause their pets to go  berserk, adding +2D to animal attack rolls, but the  animals suffer a -1 penalty to their To-Hit when  opponents attack them. This effect lasts for 1 round."
+  },
+  {
+    "name": "Beast Master",
+    "requirements": "Animal Handling 5",
+    "description": "Once per round, as a Minor Action, spend 2 Stamina  Points to reduce the next [Animal Handling]\u2019s check by  2 to a minimum of 2. Also, character can command a  number of animals equal to half their PRESENCE,  rounded up, which all benefit equally from one roll when  making [Animal Handling] checks.    66"
+  },
+  {
+    "name": "Second Wind",
+    "requirements": "Athletics 2",
+    "description": "Once per Short-or-Long Rest, the character may use  \u201cSecond Wind\u201d as a Minor Action to regain 1 Stamina  Point for every level of [Athletics].    CONDITIONING 1  Requirements: Athletics 3  Character\u2019s maximum number of Stamina Points is  increased by 1."
+  },
+  {
+    "name": "Muscle Memory",
+    "requirements": "Athletics 3",
+    "description": "The character may reroll one [Athletics] check per game  session.          CONDITIONING 2  Requirements: Athletics 4 and \u201cConditioning 1\u201d (feat)  Character\u2019s maximum number of Stamina Points is  increased by 1.    CONDITIONING 3  Requirements: Athletics 4 and \u201cConditioning 2\u201d (feat)  Character\u2019s maximum number of Stamina Points is  increased by 1."
+  },
+  {
+    "name": "Fortitude",
+    "requirements": "Athletics 5",
+    "description": "The character may spend one Gestalt Point to ignore the  effects of ongoing Critical Effects on any [Athletics] or  [Coordination] related checks until the end of the  encounter. Character still suffers from the injury itself.          77"
+  },
+  {
+    "name": "Flow State Mastery",
+    "requirements": "Athletics 5",
+    "description": "The character may reroll one [Athletics] check per game  encounter.                                                                                                                    78"
+  },
+  {
+    "name": "Taunt",
+    "requirements": "None",
+    "description": "Action. During combat, the character chooses one target  to taunt. That target now gains a +1D bonus to attack the  character until the end of the encounter."
+  },
+  {
+    "name": "Ladykiller",
+    "requirements": "Charm 3",
+    "description": "Character gains +1D bonus to [Charm] checks on targets  who are sentient and predominantly feminine."
+  },
+  {
+    "name": "Maneater",
+    "requirements": "Charm 3",
+    "description": "Character gains +1D bonus to [Charm] checks on targets  who are sentient and predominantly masculine."
+  },
+  {
+    "name": "Bold Taunt",
+    "requirements": "Charm 4",
+    "description": "Full-Round Action. When used during combat, the  character lays down their weapon, lays prone, and makes  obscene gestures. Any opponents close enough to see and  hear the character gains a +2D bonus to attack the  character. Opponents who can only see or only hear the  character only gain a +1D to their attacks. Effect lasts for  as long as the character continues taunting. Effect  continues, but with one less die of penalty until the end of  the encounter after the character discontinues the taunt.                        79  SOCIAL RULES (NPCS)  It\u2019s most important for a role-playing game (RPG) to be fun and organic. As such, while all rules in this book are optional  and secondary to the Game Master\u2019s discretion, this section is especially so. A Non-Player Character\u2019s (NPC\u2019s) attitude  and relationship toward the Player-Characters (PCs) is best handled narratively and intuitively. However, this section  provides optional rules and structure to help support the GM in managing a given NPC\u2019s relationship and attitude toward a  given PC.  NPC Relationship Table    Temperament (Reduced with [Intimidate] or degrees of Fear)  Skittish  Wary  Calculating  Aggressive  Vicious  Disposition (Improved with [Charm])  Loyal  Devotee  Supporter  Ally  Adherent  Fanatical  Follower  Friendly  Admirer  Proponent  Comrade /  Associate  Friend  Unwavering  Friend  Warm  Curious  Observer  Sympathizer  Fellow  Citizen  Advocate  Keeper  Indifferent  Anxious,  Evasive  Stranger  Curt,  Defensive  Stranger  Indifferent  Stranger  Assertive  Stranger  Aggressive  Stranger  Cold  Skeptic  Doubter  Competitor  Critic  Slanderer  Hostile  Dissident  Underminer  Opponent  Rival  Foe  Loathing  Spiteful  Victim  Saboteur  Adversary  Enemy  Nemesis    Most NPCs will likely fall under \u201cIndifferent Stranger\u201d. Disposition may vary or change based on how well the player\u2019s  goals and values align with those of the NPC. Temperament is largely determined by the personality of the NPC but can be  changed with the level of Fear imposed on them.  A [Charm] check with the purpose of increasing a character's Disposition can be attempted once per target per Short Rest.  Disposition can only increase by one step once per Long Rest. The difficulty of the [Charm] check depends on their current  Disposition and alignment of values.  Disposition  Difficulty to Increase*  Loyal  --  Friendly  [Charm 10]  Warm  [Charm 8]  Indifferent  [Charm 6]  Cold  [Charm 8]  Hostile  [Charm 10]  Loathing  [Charm 12]    Temperament  [Charm] Check Modifier  Target is Skittish  -2D  Target is Wary  -1D  Target is Calculating  --  Target is Aggressive  -1D  Target is Vicious  -2D  *An alternative rule is to use [Charm] vs target\u2019s  [Composure]. This reflects the target\u2019s level of  interpersonal skepticism and rigidity.    80"
+  },
+  {
+    "name": "Plausible Deniability",
+    "requirements": "Composure 2",
+    "description": "Negate -1D of penalty from [Composure] and  [Intimidate] checks the character makes."
+  },
+  {
+    "name": "Feign Death",
+    "requirements": "Composure 2",
+    "description": "Once per encounter and as a Minor Action, this character  spends 1 Stamina Point to fall prone and pretend that  they have died. The character makes a [Composure]  check, and the results of the check become the difficulty  of the [Insight] or [Perception] check needed to see  through the ruse. The character gets +1D to their  [Composure] check if they are Bloodied."
+  },
+  {
+    "name": "Confidence",
+    "requirements": "Composure 3",
+    "description": "The character may decrease the difficulty of any  [Composure] check that is used to avoid the effects of  Fear by 1. If the difficulty is reduced to 1 or 0, the  character does not have to make a [Composure] check."
+  },
+  {
+    "name": "Steely Nerves",
+    "requirements": "Composure 4",
+    "description": "The character may spend a Gestalt Point to ignore the  effects of ongoing Critical Effects on any PRESENCE- related checks until the end of the encounter. Character  still suffers from the injury itself.                              82"
+  },
+  {
+    "name": "War Dance",
+    "requirements": "Dance 2",
+    "description": "Character spends 1 Stamina Point to perform \u201cWar  Dance\u201d as a Full-Round Action for 2 rounds. Character  makes an opposed [Dance] vs [Composure] check  against hostile targets who can see and hear the character  each round that character is performing \u201cWar Dance\u201d. If  successful, the targets receive a +1 Fear penalty."
+  },
+  {
+    "name": "Superb Grace",
+    "requirements": "Dance 2",
+    "description": "When this character successfully Defends during combat,  they may spend 1 Stamina Point to move 5 feet and gain  back the spent Defense Reaction."
+  },
+  {
+    "name": "Manakinesis",
+    "requirements": "Dance 2 and Magic 2",
+    "description": "Character may make a [Magic] check and a [Dance]  check simultaneously and keep the higher of the two  results for use as a [Magic] check."
+  },
+  {
+    "name": "Alluring Distraction",
+    "requirements": "Dance 3",
+    "description": "This character may spend 1 Stamina Point to perform an  \u201cAlluring Distraction\u201d as a Full-Round Action against  targets who can see the character. Character makes a  [Charm] and a [Dance] check and keeps the higher result  to be opposed by the targets\u2019 [Composure] check. If this  character is successful, targets cannot use Reactions and  suffer -1D penalty to Defending for 1 round. If not in  combat, the targets will attempt to move to a space near  the character to watch closer."
+  },
+  {
+    "name": "Danse Macabre",
+    "requirements": "Dance 4",
+    "description": "As an Action, character can spend 1 Stamina Point to  make an opposed [Dance] check against an opponent's  [Composure] check. On success, both characters' Hit  Points (HP) are equalized (the higher becoming lower  and the lower becoming higher until they are equal,  rounding down). Additionally, both characters lose and  gain HP together for 5 rounds.        84  DRIVING (2-D)  [Driving] is a COORDINATION-based* Skill used for steering a watercraft or wheeled-vehicle.   (*When a character other than the vehicle's computer makes a [Piloting] or [Driving] check, they will apply whichever  attribute is lower: either the vehicle's ENGINES attribute or the character's COORDINATION attribute.)   DRIVING (2-D) FEATS        Driving (2-D) Feats  Title  Fundamentals  Strategy  Techniques  Fine-Tuning  Epiphany  Level 1  Level 2  Level 3  Level 4  Level 5              Wheelman    Wide Cornering  Overdrive  Drifting    Stunt Driver      J-Turn  PIT Maneuver"
+  },
+  {
+    "name": "Wider Cornering",
+    "requirements": "Driving 2",
+    "description": "As a Minor Action, Character spends 1 Fuel Point (or  Stamina Point if vehicle does not use Fuel) and chooses  to travel either 1 or 2 spaces more than normal before  being able to turn. The next turn, however, then requires  the same amount less than normal to be traveled."
+  },
+  {
+    "name": "Overdrive",
+    "requirements": "Driving 3",
+    "description": "(Requires vehicle to be traveling at its top speed.) As a  Movement, the driver may spend 1 Fuel Point (or  Stamina Point if vehicle does not use Fuel) to make a  [Driving 6] check. On success, the vehicle increases its  top speed by 1 for 1 round. If check fails, vehicle loses 1  additional Fuel Point or its Engine becomes disabled  until repaired.          J-TURN  Requirements: Driving 3  As a Full-Round Action, character spends 1 Fuel Point  (or Stamina Point if vehicle does not use Fuel) to perform  a \u201cJ-turn\u201d, bringing the vehicle to a stop, but facing the  opposite direction. Vehicle must have been traveling at  speed 6. An additional Fuel/Stamina must be spent if the  vehicle is traveling on water or similar liquid."
+  },
+  {
+    "name": "Drifting",
+    "requirements": "Driving 4",
+    "description": "In a turn in which a driver is going to turn their vehicle,  they may spend 1 Fuel Point to cause their vehicle to  intentionally lose traction and rotate ahead of the turn,  allowing the vehicle to use a forward-facing weapon  laterally before it turns. Drifting is also popular with  motorsport fans, granting +1D to 1 relevant [Charm] or  [Intimidate] check made before the end of the encounter  (or immediately following it).          85"
+  },
+  {
+    "name": "Pit Maneuver",
+    "requirements": "Driving 4",
+    "description": "When traveling parallel to a wheeled adjacent target  vehicle on land, character may spend 1 Fuel Point to  make an opposed [Driving] check against the target\u2019s  [Driving] check. On success, the two vehicles switch  locations at the next space of movement, the target  vehicle brakes for 1 round and changes direction to face  the original direction of the attacking vehicle. For every  Degree of Success, the target vehicle continues to move  in its original direction by one space on its next turn (to a  maximum of its original speed) and takes 10 Damage, 10  Pierce every space, coming to a complete stop at the end.  If the target vehicle\u2019s Luck Die result was >10, the vehicle  is correctly oriented at the end. If the Luck Die result was  <11, then the vehicle is on its side or upside down.                                                                                                      86"
+  },
+  {
+    "name": "Rapidity",
+    "requirements": "Initiative 3",
+    "description": "The character may spend a number of Stamina Points to  add half as many number of dice to the dice pool when  making an [Initiative] check at the start of combat.  Cannot add more dice than character\u2019s current level of  [Initiative]."
+  },
+  {
+    "name": "Reflex",
+    "requirements": "Initiative 3",
+    "description": "Once per round, the character may use an [Initiative]  check instead of an [Acrobatics] check and use the higher  result when using the Dodge Reaction.                                                    87"
+  },
+  {
+    "name": "Cutting Critique",
+    "requirements": "Insight 2 and Intimidate 2",
+    "description": "As an Action, character may spend 1 Stamina Point per  target to make an opposed [Insight] or [Intimidation]  check against a target's [Composure] check. If successful,  target gains +1 Pain. Degrees of Success (DoS) can be  spent to apply 1 Stamina Damage per DoS."
+  },
+  {
+    "name": "Rational Thinking",
+    "requirements": "Insight 2",
+    "description": "This character can optionally use the [Insight] skill  instead of the [Composure] skill to remove degrees of  Fear or assist other characters who are attempting to  remove degrees of Fear.   A Skill Check to remove Fear is done as a Minor Action  and has a difficulty equal to double the total degrees of  Fear. Success removes 1 degree. The Skill Check to  remove Fear is not penalized by degrees of Fear.    NOBODY\u2019S FOOL  Requirements: Insight 3  Any [Charm], [Intimidate], or [Composure] checks  attempted against the character suffer a -1D penalty.                88"
+  },
+  {
+    "name": "Psychosocial Exploitation",
+    "requirements": "Insight 4",
+    "description": "After a successful [Insight] check, the character may  choose to:  (1) Spend 1 Stamina Point to apply the [Insight] check's  Degrees of Success to the next [Charm] check that this  character makes against this target before the next Long  Rest.   (2) Spend 1 Stamina Point to force the target to make a  [Composure] check against this character's [Insight]  check and inflict a Pain effect on the target with degrees  of Pain equal to the [Insight]-character\u2019s Degrees of  Success.  (3) Both of the above.                                                                                                      89"
+  },
+  {
+    "name": "Interrogation",
+    "requirements": "None",
+    "description": "As an Action, character can make an [Intimidation]  check against a grabbed target's [Composure] check. If  successful, the target divulges 1 sentence of important  information or surrenders an important item."
+  },
+  {
+    "name": "Laconism",
+    "requirements": "Intimidate 2",
+    "description": "[Intimidation] checks may be made as a Minor Action.  Additionally, when an [Intimidation] check is made  against this character, instead of opposing with a  [Composure] check, the character may instead use their  own [Intimidation] check. If the defense is successful, the  original intimidator becomes intimidated."
+  },
+  {
+    "name": "Qi Manipulation",
+    "requirements": "Intimidate 3",
+    "description": "During a Movement, this character can make an opposed  [Intimidation] check against a target in melee combat  range. If successful, character can cause the target to  \u201cvoluntarily\u201d move in the same direction 5 ft for every  Degree of Success. Their target may oppose the check  with the skill of their held weapon instead of a  [Composure] check, but if they use their weapon skill and  fail the check, they trigger an attack of opportunity from  this character. This feat cannot be used to move a target  into an environmental hazard that the target is aware of,  such as a burning fire, or a steep cliff.                      90  KNOWLEDGE: ARCANA  [Knowledge: Arcana] is an INTELLIGENCE-based skill that includes the ability to recall and apply obscure, spiritual, or  esoteric topics including metaphysics, magic, unnatural creatures, and religion.  KNOWLEDGE: ARCANA FEATS      Knowledge: Arcana Feats  Title  Fundamentals  Strategy  Techniques  Fine-Tuning  Epiphany  Level 1  Level 2  Level 3  Level 4  Level 5  Eldritch Ranger    Cryptozoologist  Monster Hunter      Alchemist    Potion-Making  Potion  Derivatives      Ritualist  Basic Rituals  Strategic Rituals  Technical Rituals  Advanced  Rituals  Transcendent  Rituals  Wizard"
+  },
+  {
+    "name": "Basic Rituals",
+    "requirements": "None",
+    "description": "Character knows how to perform the \u201cBar Undead\u201d and  \u201cLinking Ritual\u201d rituals."
+  },
+  {
+    "name": "Cryptozoologist",
+    "requirements": "Knowledge: Arcana 2",
+    "description": "Character benefits from a +1D bonus to checks made  with an unnatural creature as the target. Does not count  toward Dodging, Defending, or other checks made in  response to those creatures.    POTION-MAKING  Requirements: Knowledge: Arcana 2  Character understands manaformal principles allowing  them to create potions. Potions can be made with either  a [Survival] or [Knowledge: Arcane] check."
+  },
+  {
+    "name": "Strategic Rituals",
+    "requirements": "Knowledge: Arcana 2",
+    "description": "Character knows how to perform the \u201cHarvest Mana\u201d  and \u201cMagic Trap\u201d rituals."
+  },
+  {
+    "name": "Mathemagica",
+    "requirements": "Knowledge: Arcana 2",
+    "description": "When making a [Magic] Skill Check, character may also  make a [Knowledge: Arcana] and keep the higher of the  two."
+  },
+  {
+    "name": "Monster Hunter",
+    "requirements": "Knowledge: Arcana 3",
+    "description": "Character benefits from a +1D bonus to Dodging and  Defending against attacks from unnatural creatures.            91"
+  },
+  {
+    "name": "Potion Derivatives",
+    "requirements": "Knowledge: Arcana 3, Feat: \u201cPotion-",
+    "description": "Making\u201d (Knowledge: Arcana)  Using either a [Survival] or [Knowledge: Arcane] check,  character can spend 7 Mana Potions during a Short Rest  to create 1 dose of Mage Spice. The 7 Mana Potions are  destroyed by this process."
+  },
+  {
+    "name": "Technical Rituals",
+    "requirements": "Knowledge: Arcane 3",
+    "description": "Character knows how to perform the \u201cAntimagic Field\u201d,  \u201cProtection Spell\u201d, and \u201cPurify\u201d rituals."
+  },
+  {
+    "name": "Advanced Rituals",
+    "requirements": "Knowledge: Arcane 4",
+    "description": "Character knows how to perform the \u201cCurse Item\u201d and  \u201cCurse Place\u201d rituals."
+  },
+  {
+    "name": "Transcendent",
+    "requirements": "Knowledge: Arcane 5",
+    "description": "Character knows how to perform the \u201cSever Magic\u201d and  \u201cMana Dyad\u201d rituals.                                                                                      92"
+  },
+  {
+    "name": "Basic Rituals \n \nBar Undead",
+    "requirements": "Salt",
+    "description": "Casting Time: 1 Movement (about 3-6 seconds)  Duration: Ongoing  Effect: \"Caster\" creates a continuous line of salt. Undead  creatures and magical creatures are compelled not to  cross, reach over, or physically pass over this line to any  degree."
+  },
+  {
+    "name": "Linking Ritual",
+    "requirements": "Candlelight and a photo, body part, or",
+    "description": "personal possession of the target person.  Casting Time: Full-Round Action (about 6 seconds)  Duration: Until Sunrise  Effect: Create a Magical Link with someone (required  for some spells). The link created through this ritual lasts  for as long as the involved candles are lit, and for as long  as the current moon is in the sky (ends at the start of the  following day if the candles stay lit that long.)"
+  },
+  {
+    "name": "Strategic Rituals \n \nHarvest Mana",
+    "requirements": "Garden, Chemistry Set, Time is between",
+    "description": "midnight and sunrise  Casting Time: 1 Short Rest  Duration: --  Effect: Ritual can only be performed between midnight  and sunrise, and results are ruined if the sun rises before  the ritual is complete. Ritualist must pass a [Knowledge:  Arcane 4] check. If successful, creates 1 Mana Potion. If  the results of the Skill Check exceed the diffidulty of the  check, the ritual produces a higher quality potion (see  below).  [Knowledge: Arcane 4] = Mana Potion  [Knowledge: Arcane 6] = Mana Potion +1  [Knowledge: Arcane 8] = Mana Potion +2"
+  },
+  {
+    "name": "Magic Trap",
+    "requirements": "Mana Potion (consumed on use)",
+    "description": "Casting Time: 2 Actions (about 12 seconds)  Duration: Lasts until triggered or dispelled  Effect: This ritual creates a 5 ft circle that if entered,  triggers a magic spell that the caster knows, and  successfully cast into the trap. This ritual requires a  [Magic] check to set how well hidden the trap is, and a  second [Magic] check to cast the spell that the trap will  release when triggered. Traps are not obvious, or easily  detected, and require the \"Detect Magic\" feat and a  [Magic] check equal to or higher than the one that hid it  to be detected.      93"
+  },
+  {
+    "name": "Technical Rituals \n \nAntimagic Field",
+    "requirements": "Mana Potion (consumed on use), 1 Silver",
+    "description": "(consumed on use)  Casting Time: 1 Full-Round Action  Duration: 1 Hour  Effect: Ritual triggers a mana transmutation causing the  Silver and Mana Potion to \"burn\" together as a repeating  mana arrangement that overwhelms, collapses, and  blocks out any other mana arrangement within a 10 ft  radius, effectively preventing the use of all magic within  that area. Magic effects or magic projectiles entering the  area from the outside are also nullified on contact."
+  },
+  {
+    "name": "Protection Spell",
+    "requirements": "Mana Potion (consumed on use),",
+    "description": "Concentration  Casting Time: Variable (1 Rune = 1 Movement)  Duration: Concentration  Effect: Within a given room (or other enclosed area), the  caster must place an Arcane Rune on each wall. The  Arcane Runes must have line of sight with each other.  While the caster maintains Concentration within this  room, no other characters other than the caster can use  magic. If Concentration is lost, or an Arcane Rune is  destroyed or blocked, the ritual must start over from the  beginning, using new Arcane Runes."
+  },
+  {
+    "name": "Purify",
+    "requirements": "Mana Potion (consumed on use), 1 fl.Enc",
+    "description": "of clean water (dirtied on use)  Casting Time: Short Rest  Duration: --  Effect: If a curse was applied via magic, it can be lifted by  making a [Magic] check with a result higher than the  [Magic] check that was originally used to apply the curse.                                            94"
+  },
+  {
+    "name": "Advanced Rituals \n \nCurse Item",
+    "requirements": "Mana Potion (consumed on use); 1 item",
+    "description": "or piece of equipment  Casting Time: 1 Short Rest  Duration: Lasts until curse is removed or until the item  is destroyed  Effect: This ritual enchants a piece of equipment to  passively inflict whoever possesses it with a -1 Luck  penalty when the item is used by someone other than the  owner who originally performed the ritual. If the item is  disassembled, the curse is removed, but the item  mysteriously can't be reassembled into its original  configuration. After the required items have been  gathered, the character performing the ritual makes a  [Magic] skill check. The highest die result of that check is  now the difficulty for any [Magic] check used to try to  remove the curse."
+  },
+  {
+    "name": "Curse Place",
+    "requirements": "Mana Potion (consumed on use); a",
+    "description": "location, a recent death, and a great personal malice all  related to one another; a Magical Link to the target  location.  Casting Time: 1 Long Rest  Duration: Lasts until curse is removed  Effect: This ritual places a curse on a location that  imposes a -1 Luck penalty on the occupants of that  location. During the ritual, a [Magic] Skill Check is  needed. The highest numeric result of that check becomes  the difficulty of the Skill Check that would be needed to  remove the curse with a Remove Curse ritual."
+  },
+  {
+    "name": "Transcendent Rituals \n \nSever Magic",
+    "requirements": "Magical implement; \u201cFeyveil\u201d (spell)",
+    "description": "zone or circle of runes within view of each other.  Casting Time: 1 Full-Round Action  Duration: Lasts until revered by a ritual  Effect: This ritual is performed as a Full-Round Action  requiring Concentration. For each successful Round that  the ritualist maintains Concentration, the target gains +1  Schism. When the ritual is performed against a target  with no MP, the target loses the ability to use the [Magic]  skill: a block is created within the target's psyche  preventing its manipulation of Mana. Target's [Magic]  skill level is set to 1 and their Mana Point maximum is  set to 0."
+  },
+  {
+    "name": "Mana Dyad",
+    "requirements": "",
+    "description": "\u201cMana  Trance\u201d  (feat);  magical  implement (such as wand or staff); Mana Potion  (consumed on use)  Casting Time: 1 Short Rest  Duration: --  Effect: Upon completion of this ritual, both the target and  the caster have their Health Points (HP) equalized:  regardless of starting values, their HPs converge to a  midpoint. Target and ritualist now share the same  [Magic] level (whichever is higher) and can use the same  spells  and  cantrips.  Additionally,  the  character  performing this ritual and the target of the ritual gain a  Mana Bond, granting free use of the \"Telepathy\" spell  between each other, the use of the \"Give Mana\" spell as a  Minor Action, and the sharing of magical effects (for  example, if the \"Reflect\" spell is cast on one character, then the  other character gains it as well. GM must determine as a House  Rule whether this applies to spells that effect HP).    95"
+  },
+  {
+    "name": "Associate",
+    "requirements": "Knowledge: Education 3",
+    "description": "-2 difficulty to checks to interact with institutions of  learning. Character has a +1D bonus to opposed  [Knowledge: Education] checks."
+  },
+  {
+    "name": "Knight Bachelor",
+    "requirements": "Knowledge: Education 4",
+    "description": "Choose 1 topic and permanently receive a +1D bonus to  [Charm], [Composure], [Insight], and [Intimidate]  check made against other characters in relation to that  topic. -2 difficulty to checks to interact with institutions  of learning (effect stacks with other feats.)"
+  },
+  {
+    "name": "Mind Palace",
+    "requirements": "Knowledge: Education 4",
+    "description": "As a Full-Round Action, character may use \u201cMind  Palace\u201d to reroll a [Perception] or [Insight] check  targeting a person, place, thing, or piece of information  that the character has previously encountered. New  information can be gained about the target of this check  even if the target is not present."
+  },
+  {
+    "name": "Magister",
+    "requirements": "Knowledge: Education 5",
+    "description": "Choose 1 Skill and permanently gain a +1D bonus to that  Skill as long as this character has memory and intellect.   -2 difficulty to checks to interact with institutions of  learning (effect stacks with other feats.)                              101  KNOWLEDGE: STRATEGY  [Knowledge: Strategy] is an INTELLIGENCE-based skill that includes the ability to recall and apply bidirectionally-scaling  concepts of cause-and-effect in a social and tactical context. Applies to ecology, economy, military, and political approaches,  tactics, and strategies, as well as the ability to recognize when such concepts are in action.  KNOWLEDGE: STRATEGY FEATS      Knowledge: Strategy Feats  Title  Fundamentals  Strategy  Techniques  Fine-Tuning  Epiphany  Level 1  Level 2  Level 3  Level 4  Level 5  Warlord    Tiger Formation  Dragon  Formation      Opportunist    Spinning Wheel  Formation  Fish Scale  Formation  Arrowhead  Formation    Mastermind  Rank and File  Undermine  Pre-emptive  Counter  Planned Luck    Tactician  King\u2019s Gambit  Turtle Formation  Crane\u2019s Wing  Formation    Furinkazan"
+  },
+  {
+    "name": "Rank And File",
+    "requirements": "None",
+    "description": "Once per combat encounter, after [Initiative] checks  have been made, this character may spend 2 Stamina  Points to allow the player characters to exchange places  in the turn order with each other.    KING\u2019S GAMBIT  Requirements: None  As a Full-Round Action, the character may reroll any  [Initiative] Skill Check but must keep the result."
+  },
+  {
+    "name": "Tiger Formation",
+    "requirements": "Knowledge: Strategy 2",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  +1D Attack, -1D Defense."
+  },
+  {
+    "name": "Spinning Wheel Formation",
+    "requirements": "Knowledge: Strategy 2",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  Characters can leave melee range of hostile opponents  without triggering an Opportunistic Attack if there is an  ally within that same melee range."
+  },
+  {
+    "name": "Undermine",
+    "requirements": "Knowledge: Strategy 2",
+    "description": "As an Action during a social encounter, spend 1 Stamina  Point (SP) to impose a -1D penalty against the next  [Composure] check made by a target. Spend additional  SP to effect additional targets (1 SP for every 1 additional  target). Maximum number of targets is equal to this  character's levels of [Knowledge: Strategy].            102"
+  },
+  {
+    "name": "Turtle Formation",
+    "requirements": "Knowledge: Strategy 2",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  Every ally with a shield within 5 ft: +1D to Defending,  -1D Attack, -10 ft Speed."
+  },
+  {
+    "name": "Dragon Formation",
+    "requirements": "Knowledge: Strategy 3",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  +1 Luck when Attacking and Defending while within 5  ft of Difficult Terrain."
+  },
+  {
+    "name": "Fish Scale Formation",
+    "requirements": "Knowledge: Strategy 3",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  +5 ft Speed when moving toward an ally; +1 Soak when  receiving damage from an Opportunistic Attack.    PRE-EMPTIVE COUNTER  Requirements: Knowledge: Strategy 3  Concentration. As an Action during combat, character  spends 2 Stamina Points and makes an opposed  [Knowledge: Strategy] vs [Knowledge: Strategy] check  against all opponents, including ones who are hidden  from this character. On success, opponents stop  benefitting from non-magical bonuses and penalties for a  number of rounds equal to this character's levels in  [Knowledge: Strategy].        CRANE\u2019S WING FORMATION  Requirements: Knowledge: Strategy 3  Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:   +1D Defense, -1D Attack"
+  },
+  {
+    "name": "Arrowhead Formation",
+    "requirements": "Knowledge: Strategy 4",
+    "description": "Concentration. During combat as an Action, character  spends 1 Stamina Point for all allies free of Fear effects  and within hearing range to gain the following benefit:  +5 ft Speed when moving toward a hostile opponent;  Leaving the melee range of opponents does not trigger  Opportunistic Attacks."
+  },
+  {
+    "name": "Planned Luck",
+    "requirements": "Knowledge: Strategy 4",
+    "description": "If an opponent gets a Critical Success in a location or  against a target or item this character has accessed, this  character can spend 1 Gestalt Point as a Reaction to turn  that Critical Success into a Critical Failure due to prior  preparation. This can be used a number of times per  round equal to this character's levels in [Knowledge:  Strategy].    FURINKAZAN \u98a8\u6797\u706b\u5c71  Requirements: Knowledge: Strategy 5  Once per encounter, as a Full-Round Action, character  spends 2 Stamina Points for all ally characters within   30 ft who are not under the effects of Fear to gain the  following benefit until the end of the encounter:  +5 ft Speed, +1D [Stealth], +1D Attack, +1D Defense.  Affect ends if the character who used \u201cFurinkazan\u201d  moves or is moved from their current location.        103"
+  },
+  {
+    "name": "Warcry",
+    "requirements": "None",
+    "description": "Once per encounter, the character may use the \u201cWarcry\"  Action. This character and their allies gain +1D on each  of their next attacks."
+  },
+  {
+    "name": "Form Up",
+    "requirements": "None",
+    "description": "This character can spend 1 Stamina Point per targeted  ally to attempt a [Leadership] check to remove all  degrees of the Daze status effect. One Skill Check is  performed, but the individual difficulty of the check is  different for each player based on their distance from this  character:  5 ft = [Leadership 2];  15 ft = [Leadership 4];  20 ft = [Leadership 6];  25 ft = [Leadership 8];  30 ft = [Leadership 10];  35 ft = [Leadership 12].    ALLEY-OOP  Requirements: Leadership 2  As an Action during combat, this character can spend 2  Stamina Points to let an ally attack, contributing 1  unscaled Combat Skill die if in range. The ally can still  Attack and Defend on their own turn."
+  },
+  {
+    "name": "Chain Of Command",
+    "requirements": "Leadership 2",
+    "description": "Concentration. As an Action, character can spend 1  Stamina Point to use \"Chain of Command\". While  active, this character can assist ally characters'  [Composure] checks as a free Reaction.  Additionally, when other allies in communication range  make a [Knowledge: Strategy] check, this character  makes the same check and the higher result of the two  checks are used.              104"
+  },
+  {
+    "name": "Rally",
+    "requirements": "Leadership 2",
+    "description": "As an Action, this character can spend 2 Stamina Points  to add +1D to the Defense of all allies close enough to  see and hear them for a number of rounds equal to this  character\u2019s PRESENCE value. Effect does not stack."
+  },
+  {
+    "name": "Inspiring Rhetoric",
+    "requirements": "Leadership 2",
+    "description": "The character may spend 1 Stamina Point to take the  \u201cInspiring Rhetoric\u201d Action by making a [Leadership 4]  check. For every Degree of Success (DoS), one ally  within 20 ft gains +1 Temporary Stamina Point. Passing  a [Leadership 6] check grants, for each DoS, one ally  within 20 ft a +1D bonus on all Skill Checks for a  number of rounds equal to this character\u2019s Skill Level in  [Leadership]. The character may voluntarily spend 1  additional Stamina Point to perform \u201cInspiring  Rhetoric\u201d as a Movement instead of an Action."
+  },
+  {
+    "name": "Change Formation",
+    "requirements": "Leadership 3",
+    "description": "As an Action during combat, this character may spend 2  Stamina Points to allow all ally characters not under the  effects of Fear to Disengage and move 5 feet. Doing so  has no effect on other characters' turns or actions."
+  },
+  {
+    "name": "Steady Aim",
+    "requirements": "Leadership 3",
+    "description": "As an Action, this character may spend 1 Stamina Point  per targeted ally. Allies who can see and hear this  character gain +1D to their next attack (ranged or melee)  if they stay in their current location."
+  },
+  {
+    "name": "Drill Sergeant",
+    "requirements": "Leadership 4 and \"Change Formation\"",
+    "description": "(feat)  When using the \"Change Formation\" feat, affected  characters can now move 5 additional feet."
+  },
+  {
+    "name": "Fanaticism",
+    "requirements": "Leadership 4",
+    "description": "As a Full-Round Action, character can spend 1 Stamina  Point to make a [Leadership 8] check that, if successful,  grants +1 Embolden to all allies within hearing range.  (Does not stack with other uses of \u201cFanaticism\u201d.)                                                    105"
+  },
+  {
+    "name": "Logic Syntax",
+    "requirements": "Linguistics 2",
+    "description": "The character grants +1D to tasks they direct non-player  robots or computers to perform."
+  },
+  {
+    "name": "Code Switcher",
+    "requirements": "Linguistics 2",
+    "description": "Character gains +1D to [Composure] checks when  assuming a false identity against another character with  whom they must communicate."
+  },
+  {
+    "name": "Cant",
+    "requirements": "Linguistics 3",
+    "description": "Character can convey and understand information coded  in common language through use of euphemisms,  allegory, strategic omission, timed topic changes, and  calculated errors. Two characters with this feat can speak  openly about sensitive topics without it being noticed or  understood by a casual listener.      NEW LANGUAGE 1  Requirements: Linguistics 3  The character may become proficient in another language  of their choice that they have reasonable time or access  to.    NEW LANGUAGE 2  Requirements: Linguistics 3 and \u201cNew Language 1\u201d feat  The character may become proficient in another language  of their choice that they have reasonable time or access  to. This feat requires that the character have the \u201cNew  Language 1\u201d feat.    NEW LANGUAGE 3  Requirements: Linguistics 4 and \"New Language 2\" feat  The character may become proficient in another language  of their choice that they have reasonable time or access  to. This feat requires that the character have the \u201cNew  Language 2\u201d feat.        106  NEW LANGUAGE 4  Requirements: Linguistics 4 and \"New Language 3\" feat  The character may become proficient in another language  of their choice that they have reasonable time or access  to. This feat requires that the character have the \u201cNew  Language 3\u201d feat.                                                                                                                  107"
+  },
+  {
+    "name": "Script Kiddie",
+    "requirements": "None",
+    "description": "Character learns 1 new Program to prepare a Hacker's  Tool Kit with."
+  },
+  {
+    "name": "Threat Assessment",
+    "requirements": "Logic 2",
+    "description": "Character chooses a target within view who has recently  used a self-loading ranged weapon and makes an opposed  [Logic] vs [Composure] check. On success, character  correctly recalls and calculates that the target is out of  weapon ammunition but doesn\u2019t realize it. On fail,  character correctly calculates that the target is not out of  ammo. This feat does not apply to vehicles or launcher  weapons."
+  },
+  {
+    "name": "Neophyte",
+    "requirements": "Logic 2",
+    "description": "Character learns 1 new Program to prepare a Hacker's  Tool Kit with.      STEPPIN\u2019 RAZOR  Requirements: Logic 3  Character can add  1 additional damage-dealing  cybernetic implant (or robot-part) without any of the costs  or penalties of a Cybernetic Interface."
+  },
+  {
+    "name": "Daemon Lord",
+    "requirements": "Logic 3",
+    "description": "As a Minor Hacker Action, character may perform a  second Hacker Action."
+  },
+  {
+    "name": "One Step Ahead",
+    "requirements": "Logic 3",
+    "description": "When making an opposed [Logic] or check against an  opponent, the following check that a character makes  gains a +1D bonus if the Luck Die result from the  character's previous check is higher than 10 plus the  opponent's level in [Logic].          108  <NATURAL PROGRAMMER>  Requirements: Logic 3  Character learns 2 new Programs to prepare a Hacker's  Tool Kit with."
+  },
+  {
+    "name": "Console Cowboy",
+    "requirements": "Logic 4",
+    "description": "The maximum number or Programs this character can  have prepared on their Hacker's Tool Kit is increased by  1.    1337_H4CK3R.BAT  Requirements: Logic 4  Character learns 2 new Programs to prepare a Hacker's  Tool Kit with.    LOGICLEVEL5=1  Requirements: Logic 5  Character learns 2 new Programs to prepare a Hacker's  Tool Kit with.                                                                                        109"
+  },
+  {
+    "name": "Hard Bypass",
+    "requirements": "None",
+    "description": "(Requires a Devices Tool Kit.) Character may use a  [Mechanics] check instead of a [Logic] check to gain  access to a secure device that they have physical access  too."
+  },
+  {
+    "name": "Pack Rat",
+    "requirements": "None",
+    "description": "Character treats containers as having +1 Encumbrance  capacity."
+  },
+  {
+    "name": "Repair Damage",
+    "requirements": "None",
+    "description": "(This ability requires a Mechanic Tool Kit). As an  Action, character can repair the damage of a robot,  vehicle, or other machine\u2019s Hull Points (HP).  The difficulty of the [Mechanics] check required is based  on the type of machine being repaired:  Robot or device small enough to carry = [Mechanics 4]  Vehicle or device too large to carry = [Mechanics 6]  The amount of damage repaired is equal to character\u2019s  skill level in [Mechanics]. A Critical Success doubles the  amount of damage repaired. Degrees of Success do not  contribute to the amount repaired.  This feat cannot be used on a machine or structure that  has reached 0 Hull Points.                116"
+  },
+  {
+    "name": "Utility Belt",
+    "requirements": "Mechanics 2",
+    "description": "The character may spend 1 Gestalt Point to perform a  \u201cUtility Belt\u201d Minor Action to produce a previously  undocumented--but essential--small tool from their utility  belt, satchel, or pockets, with a Rarity no greater than 3.  This cannot be a weapon unless the weapon is consumed  or destroyed as part of its normal use."
+  },
+  {
+    "name": "Locksmith",
+    "requirements": "Mechanics 2",
+    "description": "When using a Lockpick, attempting to pick a lock is now  an Action instead of a Full-Round Action."
+  },
+  {
+    "name": "Mechromancer",
+    "requirements": "Mechanics 3 and \"Repair Damage\" (feat)",
+    "description": "(Requires a Mechanic Tool Kit). Character can repair  damage to robot that has been reduced to 0 Hull Points  using cached processes. In this \"resurrected\" state, the  robot is unable to change processes, so if it originally  \"died\" in combat, it is reanimated as a hostile creature. If  it \"died\" outside of combat, it cannot use any combat  skills."
+  },
+  {
+    "name": "Mechgeiger",
+    "requirements": "Mechanics 4",
+    "description": "Once per game session, the character can use  \u201cMechGeiger\u201d as an Action. With a successful  [Mechanics 8] check, the character can fashion a device  to solve a current problem using the tools and parts on  hand. This device must be approved by the Game Master  and functions for the duration of the encounter only.  Those tools are destroyed in the process. A critical Luck  Die result may be used to allow the tools to be recovered  and reused later."
+  },
+  {
+    "name": "Magimechanicus",
+    "requirements": "Mechanics 5",
+    "description": "Tools created with the \"MechGeiger\" feat are no longer  destroyed on use.  Character can use Mana Potions as Power Cells or Pulse  Gun Reloads and can use Power Cells and Pulse Gun  Reloads as Mana Potions.                                                    117"
+  },
+  {
+    "name": "Humorsense",
+    "requirements": "None",
+    "description": "As a Full-Round Action, by tasting any bodily fluid from  another character or animal, this character can know the  Status Effects, HP, SP, and MP the character or animal  had at the time of shedding the substance. (Character  does not learn of Temporary HP, TempSP, or TempMP.)"
+  },
+  {
+    "name": "Heal Damage",
+    "requirements": "None",
+    "description": "(This ability requires a Medical Tool Kit). As an Action,  character can repair the damage of another character\u2019s  Health Points (HP) with a [Medicine 4] Skill Check. (If  character is bloodied, check becomes [Medicine 6].)  The amount of HP restored is equal to character\u2019s skill  level in [Medicine]. A Critical Success doubles the  amount of damage healed. Degrees of Success (Crit) do  not normally contribute to the amount repaired, but can  be used to remove Wound or Strain with a Crit.  This feat cannot be used on a dead character."
+  },
+  {
+    "name": "First Aid",
+    "requirements": "None",
+    "description": "(This ability does not require a Medical Tool Kit.) As a  Full-Round Action, character can attempt a [Medicine  4] check on an incapacitated target within physical reach  that is making Stabilization Rolls. Success stabilizes the  character, healing them for 1 Health Point (HP). Failing  the [Medicine 4] check but succeeding a [Medicine 2]  check grants the target 1 Stabilization Roll success. A  total failure has no effect. If the target succeeds the  Stabilization Rolls, they are no longer incapacitated and  have 1 HP.    BLOOD-LET  Requirements: Medicine 2  (Does not require Medical Tool Kit). As a Full-Round  Action, character can inflict a number of Wounds to a  character (or self) in order to heal an equal amount of  Health Points. The number of Wounds/healing that can  be applied per round is equal to this character\u2019s level in  [Medicine].          118"
+  },
+  {
+    "name": "Heal Wounds",
+    "requirements": "Medicine 2",
+    "description": "(This ability requires a Medical Tool Kit). During a Short  Rest, character can spend 1 Stamina Point to remove 1  Wound from another character who is close enough to  touch. The number of total Wounds that can be healed  and the number of characters that can be healed are both  equal to this character's skill level in [Medicine]."
+  },
+  {
+    "name": "Triage Specialist",
+    "requirements": "Medicine 2",
+    "description": "(This ability does not require a Medical Tool Kit.) When  overseeing the care of a Wounded character, that  character removes 1 additional Wound per Long Rest.  (Does not work on curses or magical illnesses.)"
+  },
+  {
+    "name": "Enhanced Performance",
+    "requirements": "Medicine 3",
+    "description": "Requires a Medical Toolkit. As an Action, Character  makes a [Medicine 4] check. If successful, one ally they  are within 5 ft of (including themselves) loses 3 Stamina  Points and may increase one Attribute (STRENGTH,  COORDINATION, INTELLIGENCE, PRESENCE)  by 1 for the remainder of the encounter. Cannot be used  more than once on the same Attribute within the same  encounter."
+  },
+  {
+    "name": "Hypocritical Oath",
+    "requirements": "Medicine 3",
+    "description": "Once per encounter, after a successful attack with a held  weapon, the character may spend 2 Stamina Points to  add half their skill level in [Medicine] (rounded down) to  the damage."
+  },
+  {
+    "name": "Professional Medic",
+    "requirements": "Medicine 3",
+    "description": "During downtime, this character can earn 1D4 silver a  day treating injuries and illnesses in or near settlements."
+  },
+  {
+    "name": "Unorthodox Techniques",
+    "requirements": "Medicine 4",
+    "description": "Once per game session, as a Minor Action, character  may reroll one [Medicine] check."
+  },
+  {
+    "name": "Jack The Ripper",
+    "requirements": "Medicine 4 and \u201cHypocritical Oath\u201d",
+    "description": "(feat)  If the character lands a killing blow when using  \u201cHypocritical Oath\u201d, the once-per-encounter limitation is  reset, and character can use \u201cHypocritical Oath\u201d again.  This can be done unlimited times during an encounter."
+  },
+  {
+    "name": "Professional Physician",
+    "requirements": "Medicine 4",
+    "description": "During downtime, this character can earn 5D6 gold per  week (or 1D6 gold per day) working full time in a hospital  or professional medical facility.  (Subtract living expenses such as food and lodging during  this time)"
+  },
+  {
+    "name": "Flesh Golem",
+    "requirements": "Medicine 5",
+    "description": "(Requires a Medical Toolkit and the spending of either 1  Mana Point, 1 Mana Potion, or 1 Power Cell). If  character has access to a dead body, they may attempt a  [Medicine 10] check to reanimate the body into a flesh  golem giving it the qualities of a zombie if the Luck Die  result is <11 or the qualities of a Synthetic Life-form if  Luck Die result is >10. If the check fails, the cadaver it  was attempted on becomes permanently unsuitable for  this purpose. The difficulty of the check is reduced by 1  (to a minimum of [Medicine 3]) for each additional  cadaver dedicated to this purpose so long as the cadavers  are of the same species.        119"
+  },
+  {
+    "name": "Professional Surgeon",
+    "requirements": "Medicine 5",
+    "description": "(This ability requires a Medical Took Kit). During  downtime, this character may perform a single  complicated surgery such as repairing major trauma. (10  + 1D10) gold is earned from this procedure, which is split  amongst any characters who assisted in the surgery\u2019s skill  checks.  The downtime typically required depends on how  complicated the procedure is, ranging from 1 Short Rest  (~4 hours) to 4 Short Rests (~16 hours).  Surgeons take 1 Strain per Short Rest of time (~4 hours)  to a minimum of 1."
+  },
+  {
+    "name": "Master Healer",
+    "requirements": "Medicine 5",
+    "description": "Every time this character heals health damage or heals  Wounds, they heal 1 additional damage or Wound.                                                                                              120"
+  },
+  {
+    "name": "Classically Trained",
+    "requirements": "Music 1",
+    "description": "Character may use INTELLIGENCE instead of  PRESENCE when making [Music] Skill Checks."
+  },
+  {
+    "name": "Heal Battle Fatigue",
+    "requirements": "Music 1",
+    "description": "During a Short Rest, this character may forgo other  activities to play music with a restorative effect to remove  1 degree of Strain for each character in the party who is  also resting and close enough to hear."
+  },
+  {
+    "name": "Stirring Beat",
+    "requirements": "Music 3",
+    "description": "As a Full-Round Action, character can spend 1 Stamina  Point to use their instrument to inspire bravery and  enthusiasm, granting allies who are close enough to hear  +1 Embolden. (Does not stack with other uses of  \u201cStirring Beat\u201d.)"
+  },
+  {
+    "name": "Placating Melody",
+    "requirements": "Music 4",
+    "description": "As a Full-Round Action, character can spend 1 Stamina  Point to use their instrument to play a calming melody.  Character makes a [Charm] check and a [Music] check  and uses the higher result of the two. All targets close  enough to hear make a [Composure] check to resist the  song\u2019s effect. If character if successful, all affected targets  are unable to use Combat Skills for 1 round. Outside of  combat, the targets\u2019 social dispositions toward other  characters increases until the end of the encounter."
+  },
+  {
+    "name": "Hypnotic Harmony",
+    "requirements": "Music 5",
+    "description": "As a Full-Round Action, character makes a [Music]  check against the passive [Composure] (half the Skill  level\u2019s die max plus 1) of a target who can hear them. If  successful, the target enters a trancelike state for 1 round.  While in this state, character stops Bleeding, and takes  half damage (rounded down to a minimum of 0) from  Poison. If used during a Short Rest, this feat can remove  1 degree of Wound from the target and heal the target up  to the minimum Health Points (HP) required for the  character to no longer be Bloodied (unless prevented by  severity of Wounds.)    121"
+  },
+  {
+    "name": "Cartographer",
+    "requirements": "Navigation 2",
+    "description": "[Navigation] Skill Checks take half as long."
+  },
+  {
+    "name": "Skilled Wayfinder",
+    "requirements": "Navigation 3",
+    "description": "Once per game session, as a Minor Action, character  may reroll a [Navigation] check.    BIOME-READING  Requirements: Navigation 4  Once per game session, as a Movement, the character can  make a [Survival 6] or [Knowledge: Education 6] check.  If successful, the character is familiar with the type of  regional environment they find themselves in. The  character knows whether the region is likely to be  inhabited and, if so, where habitation could be found. The  character also knows about unusual environmental  effects, hostile predators, or sources of potential profit.  Character gains +1D to [Survival] and [Navigation]  Skill Checks made while in this region."
+  },
+  {
+    "name": "Lay Of The Land",
+    "requirements": "Navigation 5",
+    "description": "As a Minor Action, the character may spend 2 Stamina  Points to decrease the difficulty of the next [Navigation]  check by 2 to a minimum of 2.                              122"
+  },
+  {
+    "name": "Heightened Awareness",
+    "requirements": "Perception 3",
+    "description": "Allies within 10 ft of the character add +1D to their  [Perception] checks. Allies within 5 ft with the character  add +2D instead."
+  },
+  {
+    "name": "Tactical Reflex",
+    "requirements": "Perception 4",
+    "description": "When a stealth/hidden character or creature is detected  by this character\u2019s passive [Perception], this character  gets +1D when making an [Initiative] check if the  confrontation leads to combat."
+  },
+  {
+    "name": "Blindsight",
+    "requirements": "Perception 5",
+    "description": "Activated as a Minor Action and maintained as a  Concentration. Character is unaffected by being Blinded  in environments in which there is Quiet Noise.                                            123  3-D PILOTING  [Piloting] is a COORDINATION-based skill for piloting an aircraft or spacecraft. When a character other than the vehicle's  computer makes a [Piloting] or [Driving] check, they will apply whichever attribute is lower: either the vehicle's ENGINES  attribute or the character's COORDINATION attribute.  3-D PILOTING FEATS      3-D Piloting Feats  Title  Fundamentals  Strategy  Techniques  Fine-Tuning  Epiphany  Level 1  Level 2  Level 3  Level 4  Level 5              Combat Pilot    Evasive  Maneuvers  Cobra Maneuver  Hineri-Komi  \u637b\u308a\u8fbc\u307f  Ace Pilot  Aeronaut    Afterburn  Transponder  Echo  Newtonian Stall"
+  },
+  {
+    "name": "Evasive Maneuvers",
+    "requirements": "Piloting 2",
+    "description": "As a Minor Action, the character may spend 1 Fuel and  reduce current speed by 1 to add +1D to Defending, but  incur a -1D penalty to Attacking. Effect lasts for 1 round."
+  },
+  {
+    "name": "Afterburn",
+    "requirements": "Piloting 2",
+    "description": "(Requires vehicle to be traveling at its top speed.) As a  Movement, the driver may spend 1 Fuel to make a  [Piloting 6] check. On success, the vehicle increases its  top speed by 1 for 1 round. If check fails, vehicle loses 1  additional Fuel or Engine becomes disabled until  repaired."
+  },
+  {
+    "name": "Cobra Maneuver",
+    "requirements": "Piloting 3",
+    "description": "In a vehicle with a Size Class of 2 or less, and as a Full- Round Action, pilot may spend 1 Fuel to take 1D10 Hull  Point damage to their vehicle to instantly reduce current  speed to 1. Vehicles with a Size Class of 1 or less take no  damage."
+  },
+  {
+    "name": "Transponder Echo",
+    "requirements": "Piloting 3",
+    "description": "Once per encounter, this Action can be used to put a -1D  penalty on enemy attacks against this character for 1  round.    HINERI-KOMI \u637b\u308a\u8fbc\u307f  Requirements: Piloting 4  As a Movement, pilot may spend 1 Fuel to perform a  tight, sliding loop, temporarily reducing speed by 3 for 1  round. (A starting speed of 3 or less means the pilot\u2019s ship  does not move forward for 1 round.)"
+  },
+  {
+    "name": "Newtonian Stall",
+    "requirements": "Piloting 4",
+    "description": "The character spends 1 Fuel to attempt a [Piloting 8]  check. If successful, ship ceases movement for 1 round  and pilot rerolls [Initiative] for this encounter.      124"
+  },
+  {
+    "name": "Ace Pilot",
+    "requirements": "Piloting 5",
+    "description": "Once per game session, as Minor Action, the character  may reroll  one [Piloting] check after the roll and results  have been determined.                                                                                                                    125"
+  },
+  {
+    "name": "Smuggler",
+    "requirements": "Stealth 2",
+    "description": "Character gains +1D to checks made to conceal an item  or piece of equipment on their body or in their clothing.    NINJA \u5fcd\u8005  Requirements: Stealth 3  Character adds +1D to all [Acrobatics] and [Perception]  checks made while hidden or undetected by hostile  characters or creatures."
+  },
+  {
+    "name": "Sleight Of Hand",
+    "requirements": "Stealth 3",
+    "description": "Once per encounter, character may stealthily throw an  item even while performing another Action, Movement  Minor Action, or Reaction.  Character may also use \u201cSleight of Hand\u201d to trigger an  opposed [Stealth] vs [Composure] check that, when  successful, forces all targets within hearing range of a  stealthily-thrown object\u2019s landing point to briefly look  toward the location of the sound."
+  },
+  {
+    "name": "Disciplined Reflex",
+    "requirements": "Stealth 4",
+    "description": "When outside of a vehicle, character may perform 1  Action as a Reaction when detected while stealthily  hidden in the detector\u2019s range of detection."
+  },
+  {
+    "name": "Gothamite Goodbye",
+    "requirements": "Stealth 4",
+    "description": "Character may spend 1 Stamina Point to move as a  Reaction to a place of concealment within range when  line of sight of the character is broken and no other  characters can see them, even if momentarily."
+  },
+  {
+    "name": "Saccadic Masking",
+    "requirements": "Stealth 5",
+    "description": "Character may perform a Minor Action as a Full-Round  Action to make its happening completely invisible to one  target character, even in plain, direct sight.      126  STEALTH-BASED ENCOUNTERS    SNEAKING & DETECTION  Note: In describing the rules for using [Stealth], a  character who is trying to hide will be referred to as the  \u201csneaking\u201d character, and a character who would be  interested in discovering the presence of a \u201csneaker\u201d will  be referred to as a \u201cseeker\u201d.  Hostile or potentially hostile characters (\u201cseekers\u201d) have  a Passive Detection Range of 30 ft. A sneaking character  may move within this range without being detected but  must pass a [Stealth] check to do so. The difficulty of that  check is the Passive Perception of any \u201cseekers\u201d within  range.   Note: The \"passive\" rating of a Skill is half of the Skill's  unscaled \u201cdie max\u201d plus 1. For example, if a character's  [Perception] is level 3, the die for that Skill would be an  eight-sided die (D8). Half of that die's max (8) would be  four (4), giving that character a \"Passive Perception\" of  5.  If the [Stealth] check fails and the \u201cseeker\u201d does not have  line of sight with the \u201csneaker\u201d, the \u201cseeker\u201d will likely  move casually at half-speed to the halfway point of the  sneaker\u2019s Movement to investigate. If the opponent does  have line of sight, the \u201csneaker\u201d has been detected and  the \u201cseeker\u201d has directly spotted them.  A revealed \u201csneaker\u201d can re-establish stealth by leaving  the Passive Detection Range of any \u201cseekers\u201d and  making an opposed [Stealth] vs [Perception] against any  \u201cseekers\u201d who come into Passive Detection Range the  following round."
+  },
+  {
+    "name": "Registered Vendor",
+    "requirements": "Streetwise 3",
+    "description": "The character may register themselves with a chosen  locality as a merchant. [Streetwise] checks to find a buyer  for an item that the character is selling now gains a +1D  bonus when selling in that locality."
+  },
+  {
+    "name": "Marketeer",
+    "requirements": "Streetwise 4",
+    "description": "The bonus gained from the \u201cRegistered Vendor\u201d feat is  now +2D instead of +1D. Additionally, the character  may now register with a total of 4 localities."
+  },
+  {
+    "name": "Merchant Tent",
+    "requirements": "Streetwise 5",
+    "description": "The character can now establish a free-standing place of  business either in the wilderness, or on the under- developed outskirts of a town. Even though it is outside  of city limits, the business location will be considered as  an official economic entity and will be under the  protection of local law enforcement. As long as the  building (be it anything from a tent to a space station) is  in a location or area that is commonly accessible via roads  or trade routes, the character will gain full market value  from any items stored or sent to the place of business at a  rate of 5 gold per day, per place of business. There is no  limit to the number of places of business the character can  establish, but the character cannot have more than one  place of business in areas considered to have the same  regional  government.  The  specifics  of  regional  governance and the allowance of business placement are  decided at the Game Master's discretion.                129"
+  },
+  {
+    "name": "Simple Shelter",
+    "requirements": "None",
+    "description": "The character can create a simple shelter for one person  using natural resources. Construction requires 1 Stamina  Point and a successful [Survival 2] check. If the check  fails, another 1 Stamina Point can be spent to try again.   Benefits gained from resting in this shelter: -3 Random  Event chance (stacks with other camps)."
+  },
+  {
+    "name": "Harvest Creature",
+    "requirements": "None",
+    "description": "The character is familiar with the knowledge and  technique of harvesting meat, hide, and bone from an  animal corpse. Food, and materials for clothing and  rudimentary weapons can be gathered this way."
+  },
+  {
+    "name": "Biome Specialist",
+    "requirements": "Survival 2",
+    "description": "Character chooses 1 type of outdoor environment (jungle,  taiga, forest, wetland, savanna, grassland/shrubland,  tundra, or desert) in which to specialize. Character then  gains a +1D bonus to [Survival] checks made in that type  of environment.    TRAP-MAKING  Requirements: Survival 2  This character can design and construct the following  items from harvested animal resources: Wire Mesh Trap  [Survival 2]; Glow Juice Trap [Survival 4]; Sharp Bone  Spur [Survival 4]; Noise Maker [Survival 6]; Stink Bomb  [Survival 6]; Glow-Wire Trap [Survival 8]; Adhesive  Mesh [Survival 8]; Flash Bomb [Survival 10]; Sonic  Pulse [Survival 10]."
+  },
+  {
+    "name": "Forage",
+    "requirements": "Survival 2",
+    "description": "When in the wilderness, the character may attempt a  [Survival 6] check. If successful, the character may find  food, natural resources, or some other trinket at the  Game Master's discretion. Items found by foraging are  usually consumable items that would make sense to find  in the character's current environment.            130  MULTI-PERSON CAMP  Requirements: Survival 3  The character can build a multi-person campsite from  improvised and natural resources. At this level, the  campsite can only provide benefit to five characters.  Successful construction requires that the character spends  2 Stamina Points and pass a [Survival 4] check.  Each character that helps with the construction spends 2  Stamina Points and contributes a +1D bonus to the  character performing the  Skill Check.  The following benefits are gained from resting in this  shelter: -20 Random Encounter chance (Does not stack  with other party members' camps); Cooking Supplies."
+  },
+  {
+    "name": "Masked Scent",
+    "requirements": "Survival 3",
+    "description": "Add +2D to [Stealth] checks when used to hide from  animals."
+  },
+  {
+    "name": "Huntsman",
+    "requirements": "Survival 3",
+    "description": "+1D and +1 Luck to Skill Checks related to tracking,  hunting, or fighting animals, including combat checks."
+  },
+  {
+    "name": "Advanced Camp",
+    "requirements": "Survival 4",
+    "description": "The character can build a larger, and more comfortable  campsite that provides more amenities. At this level, the  campsite provides benefit to eight characters at a time.  Successful construction requires that the character spends  4 Stamina Points and passes a [Survival 6] check.  Each character that helps with the construction spends 2  Stamina Points and contributes a +1D bonus to the  character performing the Skill Check.  The following benefits are gained from resting in this  shelter: -33 Random Event chance (Does not stack with  other party members' camps); Cooking Supplies;  Smithing Facility."
+  },
+  {
+    "name": "Camouflage",
+    "requirements": "Survival 4",
+    "description": "With an hour of time, the character can construct a cloak  from local materials that grant the wearer +2D to  [Stealth] checks made in the type of environment it was  constructed (jungle, taiga, forest, wetland, savanna,  grassland/shrubland, tundra, or desert)."
+  },
+  {
+    "name": "Expert Tracker",
+    "requirements": "Survival 4",
+    "description": "Negate -1D of penalty due to environmental conditions  from [Survival] checks made to track people or animals  in the wilderness."
+  },
+  {
+    "name": "Field Base Camp",
+    "requirements": "Survival 5, Structures 2, and \"Multi-",
+    "description": "Person Camp\" (feat)  The character can build a campsite with sufficient  amenities to support an extended operation. At this level,  the campsite provides benefit to twelve characters at a  time. Successful construction requires that the character  spends 6 Stamina Points and pass a [Survival 8] check.  Each character that helps with the construction may take  on as much of the Stamina Point cost from this character  as they choose to contribute a +1D bonus to the character  performing the Skill Check.  The following benefits are gained from resting in this  shelter: -50 Random Event chance (Does not stack with  other party members' camps); Cooking Supplies;  Smithing facility; Medical facility.                131  HUNTING, FISHING, & FORAGING  During a Short Rest, a character can forgo other activities to spend a few hours hunting, fishing, or foraging."
+  }
+]
