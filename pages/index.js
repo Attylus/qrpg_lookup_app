@@ -1,65 +1,48 @@
-import { useState, useEffect } from 'react';
-import { Input } from '../components/ui/input';
-import { Tabs, TabsList, TabsTrigger } from '../components/ui/tabs';
-import { Card, CardContent } from '../components/ui/card';
+import { useState } from "react";
+import { Input } from "../components/ui/input";
+import { Tabs, TabsList, TabsTrigger } from "../components/ui/tabs";
+import { Card, CardContent } from "../components/ui/card";
+import feats from "../data/qrpg_feats.json";
+import spells from "../data/qrpg_spells.json";
 
-import featsData from '../data/qrpg_feats.json';
-import spellsData from '../data/qrpg_spells.json';
+export default function Home() {
+  const [tab, setTab] = useState("feats");
+  const [search, setSearch] = useState("");
 
-export default function QRPGLookupApp() {
-  const [tab, setTab] = useState('feats');
-  const [query, setQuery] = useState('');
-  const [feats, setFeats] = useState([]);
-  const [spells, setSpells] = useState([]);
+  const data = tab === "feats" ? feats : spells;
 
-  useEffect(() => {
-    setFeats(featsData);
-    setSpells(spellsData);
-  }, []);
-
-  const data = tab === 'feats' ? feats : spells;
-  const filtered = data.filter((item) =>
-    item.name.toLowerCase().includes(query.toLowerCase())
+  const filteredData = data.filter((entry) =>
+    entry.name.toLowerCase().includes(search.toLowerCase())
   );
 
   return (
-    <div className="p-4 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">QRPG Lookup</h1>
-      <Tabs value={tab} onValueChange={setTab} className="mb-4">
+    <div className="max-w-2xl mx-auto p-4 space-y-6">
+      <h1 className="text-2xl font-bold text-center">QRPG Lookup</h1>
+
+      <Tabs value={tab} onValueChange={setTab}>
         <TabsList>
           <TabsTrigger value="feats">Feats</TabsTrigger>
           <TabsTrigger value="spells">Spells</TabsTrigger>
         </TabsList>
       </Tabs>
+
       <Input
-        placeholder="Search..."
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        className="mb-4"
+        placeholder={`Search ${tab}...`}
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
       />
-      <div className="grid gap-4">
-        {filtered.map((item, i) => (
+
+      <div className="space-y-4">
+        {filteredData.map((item, i) => (
           <Card key={i}>
             <CardContent className="p-4">
-              <h2 className="font-semibold text-lg">{item.name}</h2>
-              {tab === 'feats' ? (
-                <>
-                  <p className="text-sm text-muted-foreground">
-                    Requirements: {item.requirements}
-                  </p>
-                  <p>{item.description}</p>
-                </>
-              ) : (
-                <>
-                  <p><strong>Damage:</strong> {item.damage}</p>
-                  <p><strong>DoS Effect:</strong> {item.dosEffect}</p>
-                  <p><strong>Cantrip:</strong> {item.cantrip}</p>
-                  <p><strong>Event:</strong> {item.eventEffect}</p>
-                </>
-              )}
+              <h2 className="font-bold">{item.name}</h2>
+              {item.effect && <p className="text-sm">{item.effect}</p>}
+              {item.description && <p className="text-sm">{item.description}</p>}
             </CardContent>
           </Card>
         ))}
+        {filteredData.length === 0 && <p>No results found.</p>}
       </div>
     </div>
   );
